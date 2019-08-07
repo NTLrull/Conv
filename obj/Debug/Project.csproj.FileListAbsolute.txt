@@ -1,0 +1,12 @@
+C:\! Трудоустройство\Loymax\Project\Project\bin\Debug\Project.exe.config
+C:\! Трудоустройство\Loymax\Project\Project\bin\Debug\Project.exe
+C:\! Трудоустройство\Loymax\Project\Project\bin\Debug\Project.pdb
+C:\! Трудоустройство\Loymax\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\! Трудоустройство\Loymax\Project\Project\obj\Debug\Project.Form_converterOfClock.resources
+C:\! Трудоустройство\Loymax\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\! Трудоустройство\Loymax\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\! Трудоустройство\Loymax\Project\Project\obj\Debug\Project.exe
+C:\! Трудоустройство\Loymax\Project\Project\obj\Debug\Project.pdb
+C:\! Трудоустройство\Loymax\Project\Convert_hours_to_minutes\bin\Debug\Project.exe.config
+C:\! Трудоустройство\Loymax\Project\Convert_hours_to_minutes\obj\Debug\Project.exe
+C:\! Трудоустройство\Loymax\Project\Convert_hours_to_minutes\obj\Debug\Project.pdb
